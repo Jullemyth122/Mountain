@@ -1,4 +1,10 @@
+:root {
+  --all-bgcolors: #484848;
+  --all-textcolors: white;
+}
+
 .App {
   width: 100%;
   height: 100%;
+  background: var(--all-bgcolors);
 }
